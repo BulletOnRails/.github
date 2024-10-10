@@ -4,3 +4,8 @@ Welcome to Bullet On Rails! We are a community of passionate Ruby on Rails devel
 ## About Us
 Bullet On Rails is a collaborative space for Ruby on Rails enthusiasts. Whether you’re a seasoned developer or just starting out, you’ll find resources, support, and inspiration here.
 
+## Community
+Join our community discussions and stay updated with the latest news:
+
+- Discussions
+- Issues
