@@ -1,6 +1,6 @@
 # BulletOnRails
 
-**BulletOnRails** is a GitHub organization focused on Ruby on Rails projects, maintained by [Michael Douglas (Bulletdev)](https://github.com/Bulletdev), a seasoned Backend Developer and Cloud Infrastructure/DevOps Engineer with expertise in Ruby on Rails, among other technologies.
+**BulletOnRails** is a framework Java that introduces a new way to build Web applications, maintained by [Michael Douglas (Bulletdev)](https://github.com/Bulletdev), a seasoned Backend Developer and Cloud Infrastructure/DevOps Engineer with expertise in Ruby on Rails, among other technologies.
 
 ## Highlights
 
